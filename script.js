@@ -111,7 +111,7 @@ window.addEventListener('resize', () => {
 
 
 document.getElementById("mail-link").addEventListener("click", function () {
-  alert("uptonova@bk.ru")
+  alert("me@uptonova.ru")
 })
 
 document.getElementById("listen").addEventListener("click", function () {
