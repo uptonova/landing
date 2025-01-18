@@ -114,11 +114,11 @@ document.getElementById("mail-link").addEventListener("click", function () {
   alert("me@uptonova.ru")
 })
 
-document.getElementById("listen").addEventListener("click", function () {
+/*document.getElementById("listen").addEventListener("click", function () {
   document.getElementById("content-socials").style.display = "none";
   document.getElementById("content-playlist").style.display = "block";
   VK.Widgets.Playlist('playlist', -228679195, 2, '78ee72aaa3590bb6eb', { width: 500 });
-})
+})*/
 
 document.getElementById("back-to-socials").addEventListener("click", function () {
   document.getElementById("content-socials").style.display = "block";
